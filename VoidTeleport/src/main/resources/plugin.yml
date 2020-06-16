@@ -1,0 +1,6 @@
+name: VoidTP
+version: ${project.version}
+main: me.christo.Main
+api-version: 1.13
+authors: [Christo]
+description: Teleports Players to spawn if they touch the void

@@ -1,0 +1,4 @@
+teleport-location: world;0;64;0;0;0
+yPosition: -5
+disabledWorlds:
+  - world_nether
